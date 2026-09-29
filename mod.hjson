@@ -1,0 +1,8 @@
+name: "gd-musics"
+displayName: "GD Music"
+author: "Cup"
+description: "Replaces every single musics with geometry dash musics"
+version: "1.6"
+minGameVersion: "136"
+hidden: true
+subtitle: "GEOMETRY DASH."
